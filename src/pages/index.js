@@ -94,7 +94,7 @@ export default (() => {
 							hover-opacity=".8"
 							href="#"
 						>
-							Our Application
+							Our Portfolio
 						</Link>
 						<Link
 							href="#"
@@ -116,7 +116,7 @@ export default (() => {
 							transition="opacity 0.3s ease-in-out 0s"
 							hover-opacity=".8"
 						>
-							Take the test
+							Take the Test
 						</Link>
 						<Link
 							text-decoration-line="initial"

@@ -10,11 +10,11 @@ export default (() => {
 		<GlobalQuarklyPageStyles pageUrl={"index"} />
 		<Helmet>
 			<title>
-				Your wedding will be perfect
+				Be kind be gestures - Tech of Kind and For Kind
 			</title>
-			<meta name={"description"} content={"Our talented team will not only document your wedding day, we will help you curate a day that is uniquely you."} />
-			<meta property={"og:title"} content={"Your wedding will be perfect"} />
-			<meta property={"og:description"} content={"Our talented team will not only document your wedding day, we will help you curate a day that is uniquely you."} />
+			<meta name={"description"} content={"Kind Gestures Tech is a forward-thinking technology firm that dedicates its resources to the development of digital tools for mental wellbeing and health. Since its establishment, it has strived to create a world where technology doesn't merely serve our physical needs, but also empowers us to nurture our mental health, using the mantra \"Be Kind and Be Gestures\" to guide their innovations."} />
+			<meta property={"og:title"} content={"Be kind be gestures - Tech of Kind and For Kind"} />
+			<meta property={"og:description"} content={"Kind Gestures Tech is a forward-thinking technology firm that dedicates its resources to the development of digital tools for mental wellbeing and health. Since its establishment, it has strived to create a world where technology doesn't merely serve our physical needs, but also empowers us to nurture our mental health, using the mantra \"Be Kind and Be Gestures\" to guide their innovations."} />
 			<meta property={"og:image"} content={"https://uploads.quarkly.io/615c316435c5c8001f775568/images/wedding%20template.png?v=2021-10-05T11:13:30.358Z"} />
 			<link rel={"shortcut icon"} href={"https://uploads.quarkly.io/615c316435c5c8001f775568/images/openmoji_couple-with-heart32.png?v=2021-10-05T11:11:03.451Z"} type={"image/x-icon"} />
 			<link rel={"apple-touch-icon"} href={"https://uploads.quarkly.io/615c316435c5c8001f775568/images/openmoji_couple-with-heart152.png?v=2021-10-05T11:11:13.507Z"} />
@@ -83,7 +83,7 @@ export default (() => {
 							text-decoration-line="initial"
 							padding="8px 8px 8px 8px"
 						>
-							About
+							Team
 						</Link>
 						<Link
 							color="--darkL2"
@@ -94,7 +94,7 @@ export default (() => {
 							hover-opacity=".8"
 							href="#"
 						>
-							Portfolio
+							Our Application
 						</Link>
 						<Link
 							href="#"
@@ -105,7 +105,7 @@ export default (() => {
 							transition="opacity 0.3s ease-in-out 0s"
 							hover-opacity=".8"
 						>
-							Wedding
+							Join us
 						</Link>
 						<Link
 							href="#"
@@ -116,7 +116,7 @@ export default (() => {
 							transition="opacity 0.3s ease-in-out 0s"
 							hover-opacity=".8"
 						>
-							Planning
+							Take the test
 						</Link>
 						<Link
 							text-decoration-line="initial"
@@ -384,7 +384,7 @@ export default (() => {
 					font="--headline2"
 					color="--coralD1"
 				>
-					Planning a wedding?
+					Work with us?
 				</Text>
 				<Text
 					margin="0px 0px 50px 0px"
@@ -394,7 +394,7 @@ export default (() => {
 					lg-max-width="500px"
 					md-font="normal 400 16px/1.5 &quot;Marcellus&quot;, serif"
 				>
-					We'll support you from the minute you contact us and at every moment on your wedding day. Need advice or just want to share your ideas? We are here for you!
+					We'll support you from the minute you contact us and at every moment on your working day. Need advice or just want to share your ideas? We are here for you!
 				</Text>
 				<Box border-radius="100%" background="inherit" position="relative">
 					<Box
@@ -440,7 +440,7 @@ export default (() => {
 							background="rgba(0, 119, 204, 0)"
 						>
 							<Text transform="matrix(1.1, 0.22, -0.14, 1, 0, 0)" margin="0px 0px 0px 0px" color="--coralD1">
-								Hire us!{" "}
+								Work with us!
 							</Text>
 							{" "}
 						</Override>
@@ -616,10 +616,10 @@ export default (() => {
 				width="25%"
 			>
 				<Text font="400 28px/1.5 --fontFamily-googleMarcellus" color="--secondary" margin="0px 0px 8px 0px">
-					Jane Apisade
+					Kind Gestures EU
 				</Text>
 				<Text color="--darkL2" md-margin="0px 0px 30px 0px" margin="0px 0px 0px 0px" font="--base">
-					We have a full-time Client Experience Manager ready to answer your questions and share more information.
+					Kind Gestures Tech is a forward-thinking technology firm that dedicates its resources to the development of digital tools for mental wellbeing and health.{" "}
 				</Text>
 			</Box>
 			<Box
@@ -689,7 +689,7 @@ export default (() => {
 					transition="opacity 0.3s ease-in-out 0s"
 					hover-text-decoration-line="initial"
 				>
-					Portfolio
+					Application
 				</Link>
 				<Link
 					margin="0px 0px 8px 0px"
@@ -701,7 +701,7 @@ export default (() => {
 					text-decoration-line="initial"
 					href="#"
 				>
-					Photo
+					Take a Test
 				</Link>
 				<Link
 					margin="0px 0px 8px 0px"
@@ -713,7 +713,7 @@ export default (() => {
 					text-decoration-line="initial"
 					href="#"
 				>
-					Video
+					Our Philosophy{" "}
 				</Link>
 				<Link
 					color="--coral"
@@ -725,7 +725,7 @@ export default (() => {
 					hover-text-decoration-line="initial"
 					hover-opacity=".8"
 				>
-					Investment
+					Work with us !
 				</Link>
 			</Box>
 			<Box

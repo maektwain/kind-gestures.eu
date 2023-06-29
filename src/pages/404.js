@@ -10,11 +10,11 @@ export default (() => {
 		<GlobalQuarklyPageStyles pageUrl={"404"} />
 		<Helmet>
 			<title>
-				Your wedding will be perfect
+				Be kind be gestures - Tech of Kind and For Kind
 			</title>
-			<meta name={"description"} content={"Our talented team will not only document your wedding day, we will help you curate a day that is uniquely you."} />
-			<meta property={"og:title"} content={"Your wedding will be perfect"} />
-			<meta property={"og:description"} content={"Our talented team will not only document your wedding day, we will help you curate a day that is uniquely you."} />
+			<meta name={"description"} content={"Kind Gestures Tech is a forward-thinking technology firm that dedicates its resources to the development of digital tools for mental wellbeing and health. Since its establishment, it has strived to create a world where technology doesn't merely serve our physical needs, but also empowers us to nurture our mental health, using the mantra \"Be Kind and Be Gestures\" to guide their innovations."} />
+			<meta property={"og:title"} content={"Be kind be gestures - Tech of Kind and For Kind"} />
+			<meta property={"og:description"} content={"Kind Gestures Tech is a forward-thinking technology firm that dedicates its resources to the development of digital tools for mental wellbeing and health. Since its establishment, it has strived to create a world where technology doesn't merely serve our physical needs, but also empowers us to nurture our mental health, using the mantra \"Be Kind and Be Gestures\" to guide their innovations."} />
 			<meta property={"og:image"} content={"https://uploads.quarkly.io/615c316435c5c8001f775568/images/wedding%20template.png?v=2021-10-05T11:13:30.358Z"} />
 			<link rel={"shortcut icon"} href={"https://uploads.quarkly.io/615c316435c5c8001f775568/images/openmoji_couple-with-heart32.png?v=2021-10-05T11:11:03.451Z"} type={"image/x-icon"} />
 			<link rel={"apple-touch-icon"} href={"https://uploads.quarkly.io/615c316435c5c8001f775568/images/openmoji_couple-with-heart152.png?v=2021-10-05T11:11:13.507Z"} />
